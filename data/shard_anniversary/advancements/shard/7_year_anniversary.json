@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:cyan_dye"
+    },
+    "title": "7 Years of Shard",
+    "frame": "task",
+    "description": "In commemoration of the 7-year anniversary of Shard",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "shard_anniversary:shard/6_year_anniversary",
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "shard_anniversary:rewards/7"
+  }
+}

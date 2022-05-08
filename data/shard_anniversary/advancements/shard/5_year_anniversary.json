@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:black_dye"
+    },
+    "title": "5 Years of Shard",
+    "frame": "goal",
+    "description": "In commemoration of the 5-year anniversary of Shard",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "shard_anniversary:shard/root",
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "shard_anniversary:rewards/5"
+  }
+}
