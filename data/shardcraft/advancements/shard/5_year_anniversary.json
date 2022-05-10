@@ -10,13 +10,13 @@
     "announce_to_chat": true,
     "hidden": true
   },
-  "parent": "shard_anniversary:shard/root",
+  "parent": "shardcraft:shard/root",
   "criteria": {
     "nothing": {
       "trigger": "minecraft:impossible"
     }
   },
   "rewards": {
-    "function": "shard_anniversary:rewards/5"
+    "function": "shardcraft:rewards/5"
   }
 }

@@ -17,6 +17,6 @@
     }
   },
   "rewards": {
-    "function": "shard_anniversary:rewards/0"
+    "function": "shardcraft:rewards/0"
   }
 }
