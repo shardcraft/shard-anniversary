@@ -1,16 +1,16 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:cyan_dye"
+      "id": "minecraft:blue_dye"
     },
-    "title": "7 Years of Shard",
+    "title": "9 Years of Shard",
     "frame": "task",
-    "description": "In commemoration of the 7-year anniversary of Shard",
+    "description": "In commemoration of the 9-year anniversary of Shard",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "shard_anniversary:shard/6_year_anniversary",
+  "parent": "shard_anniversary:8",
   "criteria": {
     "nothing": {
       "trigger": "minecraft:impossible"

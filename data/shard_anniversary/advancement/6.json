@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "shard_anniversary:shard/5_year_anniversary",
+  "parent": "shard_anniversary:5",
   "criteria": {
     "nothing": {
       "trigger": "minecraft:impossible"
