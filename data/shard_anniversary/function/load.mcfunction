@@ -1,0 +1,1 @@
+schedule function shard_anniversary:grant 10s replace

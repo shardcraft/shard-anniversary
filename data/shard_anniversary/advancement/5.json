@@ -1,22 +1,19 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:black_dye"
+      "id": "minecraft:music_disc_strad"
     },
     "title": "5 Years of Shard",
     "frame": "goal",
     "description": "In commemoration of the 5-year anniversary of Shard",
     "show_toast": true,
     "announce_to_chat": true,
-    "hidden": true
+    "hidden": false
   },
-  "parent": "shardcraft:shard/root",
+  "parent": "shard_core:root",
   "criteria": {
     "nothing": {
       "trigger": "minecraft:impossible"
     }
-  },
-  "rewards": {
-    "function": "shardcraft:rewards/5"
   }
 }

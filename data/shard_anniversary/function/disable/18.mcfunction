@@ -1,0 +1,1 @@
+data remove storage shard_anniversary:18 enabled

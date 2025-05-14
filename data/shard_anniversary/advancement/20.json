@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:music_disc_precipice"
+    },
+    "title": "20 Years of Shard",
+    "frame": "challenge",
+    "description": "In commemoration of the 20-year anniversary of Shard",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "shard_anniversary:19",
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

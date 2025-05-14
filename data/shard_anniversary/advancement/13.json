@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:music_disc_13"
+    },
+    "title": "13 Years of Shard",
+    "frame": "task",
+    "description": "In commemoration of the 13-year anniversary of Shard",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "shard_anniversary:12",
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
