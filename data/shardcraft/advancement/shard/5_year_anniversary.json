@@ -15,8 +15,5 @@
     "nothing": {
       "trigger": "minecraft:impossible"
     }
-  },
-  "rewards": {
-    "function": "shardcraft:rewards/5"
   }
 }
