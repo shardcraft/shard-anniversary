@@ -8,7 +8,7 @@
     "description": "In commemoration of the 7-year anniversary of Shard",
     "show_toast": true,
     "announce_to_chat": true,
-    "hidden": true
+    "hidden": false
   },
   "parent": "shardcraft:shard/6_year_anniversary",
   "criteria": {
