@@ -1,0 +1,1 @@
+data modify storage shard_anniversary:6 enabled set value true

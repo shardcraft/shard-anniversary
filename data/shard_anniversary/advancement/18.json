@@ -1,16 +1,16 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:music_disc_creator_music_box"
+      "id": "minecraft:music_disc_stal"
     },
-    "title": "9 Years of Shard",
+    "title": "18 Years of Shard",
     "frame": "task",
-    "description": "In commemoration of the 9-year anniversary of Shard",
+    "description": "In commemoration of the 18-year anniversary of Shard",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "shard_anniversary:8",
+  "parent": "shard_anniversary:17",
   "criteria": {
     "nothing": {
       "trigger": "minecraft:impossible"

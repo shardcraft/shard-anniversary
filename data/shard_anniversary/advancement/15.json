@@ -1,16 +1,16 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:music_disc_strad"
+      "id": "minecraft:music_disc_mellohi"
     },
-    "title": "5 Years of Shard",
+    "title": "15 Years of Shard",
     "frame": "goal",
-    "description": "In commemoration of the 5-year anniversary of Shard",
+    "description": "In commemoration of the 15-year anniversary of Shard",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "shard_core:root",
+  "parent": "shard_anniversary:14",
   "criteria": {
     "nothing": {
       "trigger": "minecraft:impossible"
